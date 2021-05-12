@@ -9,7 +9,7 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 
 nltk.download('vader_lexicon')
-nlp = en_core_web_sm.load()
+#nlp = en_core_web_sm.load()
 nlp = spacy.load("en_core_web_sm")
 
 
