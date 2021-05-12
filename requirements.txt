@@ -13,5 +13,5 @@ statsmodels
 pmdarima
 datetime
 spacy==2.3.5
+twint
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_sm
-git+https://github.com/himanshudabas/twint.git@twint-fixes
