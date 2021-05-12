@@ -1,0 +1,1 @@
+web: sh setup.sh && python -m spacy download en_core_web_sm && pip3 install --user --upgrade git+https://github.com/himanshudabas/twint.git@twint-fixes && streamlit run main.py
